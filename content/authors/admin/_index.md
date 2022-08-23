@@ -28,10 +28,10 @@ education:
     - course: PhD in Econometrics and Quantitative Economics
       institution: New York University
       year: 2023
-    - course: MA in Economics
+    - course: MA in Economics (minor in Econometrics)
       institution: Universidad Torcuato di Tella
       year: 2017
-    - course: BA in Economics, minor in Math
+    - course: BA in Economics (minor in Math)
       institution: Universidad Torcuato di Tella
       year: 2014
 
@@ -45,16 +45,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/nachocigliutti
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nachocigliutti
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/nachocigliutti
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
