@@ -27,11 +27,11 @@ education:
   courses:
     - course: PhD in Econometrics and Quantitative Economics
       institution: New York University
-      year: 2023
-    - course: MA in Economics (minor in Econometrics)
+      year: 2023 (expected)
+    - course: MA in Economics (Econometrics minor)
       institution: Universidad Torcuato di Tella
       year: 2017
-    - course: BA in Economics (minor in Math)
+    - course: BA in Economics (Math minor)
       institution: Universidad Torcuato di Tella
       year: 2014
 
@@ -70,8 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm an Economics PhD candidate at NYU, with interests in Econometrics, Labor and Macroeconomics. I'm particularily interested in the application of Machine Learning techniques in Economics. 
+Before my graduate studies at NYU, I recieved BA and MA degrees in Economics and Econometrics at Universidad Torcuato di Tella, Argentina. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

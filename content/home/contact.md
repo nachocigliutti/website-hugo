@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: nacho@nyu.edu
-  # phone: 888 888 88 88
+  phone: 929 330 1972
   address:
     street: 19 W 4th St, 6th floor
     city: New York
