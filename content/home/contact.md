@@ -31,12 +31,12 @@ content:
     street: 19 W 4th St, 6th floor
     city: New York
     region: NY
-    postcode: '10002'
+    postcode: '10012'
     country: United States
     country_code: US
-  # coordinates:
-  #   latitude: '37.4275'
-  #   longitude: '-122.1697'
+  coordinates:
+    latitude: '40.7291'
+    longitude: '-73.9954'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   # office_hours:
   #   - 'Monday 10:00 to 13:00'

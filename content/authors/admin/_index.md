@@ -28,10 +28,10 @@ education:
     - course: PhD in Economics
       institution: New York University
       year: 2023 (expected)
-    - course: MA in Economics (Econometrics minor)
+    - course: MA in Economics (GPA 9.67/10)
       institution: Universidad Torcuato di Tella
       year: 2017
-    - course: BA in Economics (Math minor)
+    - course: BA in Economics (GPA 9.21/10)
       institution: Universidad Torcuato di Tella
       year: 2014
 
@@ -71,6 +71,7 @@ highlight_name: true
 ---
 
 I'm an Economics PhD candidate at NYU, with interests in Econometrics, Labor and Macroeconomics. I'm particularily interested in the application of Machine Learning techniques in Economics. 
-Before my graduate studies at NYU, I recieved BA and MA degrees in Economics and Econometrics at Universidad Torcuato di Tella, Argentina. 
+
+Before my graduate studies at NYU, I recieved BA and MA degrees in Economics (with minors in Math and Econometrics) at Universidad Torcuato di Tella, Argentina. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
