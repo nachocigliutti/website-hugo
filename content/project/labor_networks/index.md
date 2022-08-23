@@ -1,9 +1,10 @@
 ---
-title: Adversarial Method of Moments
-summary: Implementation of GANs estimation for models based on moment conditions.
+title: Production and Labor Market Networks
+summary: Introduction of labor search frictions in a production network economy.
 tags:
-  - Econometrics
-  - Machine Learning
+  - Macroeconomics
+  - Labor Economics
+  - Networks
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

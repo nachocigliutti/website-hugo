@@ -1,9 +1,9 @@
 ---
-title: Adversarial Method of Moments
-summary: Implementation of GANs estimation for models based on moment conditions.
+title: CCT - 
+summary: Estimation of the effects of AUH on education outcomes in Argentina using 
 tags:
   - Econometrics
-  - Machine Learning
+  - Causal Inference
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
