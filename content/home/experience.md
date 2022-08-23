@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Prof. Elena Manresa
     company_url: ''
-    company_logo: org-gc
+    company_logo: nyu_logo.png
     # location: New York
     date_start: '2021-01-01'
     date_end: ''
