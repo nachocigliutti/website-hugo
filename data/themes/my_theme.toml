@@ -1,10 +1,11 @@
 # Theme metadata
-name = "Minimal"
+name = "Nacho"
 
 [light]
   # Primary
-  primary = "#1565c0"
-
+  # primary = "#1565c0"
+  primary = "#b583d4"
+  
   # Menu
   menu_primary = "#fff"
   menu_text = "#34495e"
