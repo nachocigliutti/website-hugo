@@ -20,5 +20,5 @@ name = "Nacho"
   # Primary
   primary = "#b583d4"
 
-  link = "#89bf77"
-  link_hover = "#f76565"
+  link = "#b583d4"
+  link_hover = "#b583d4"
