@@ -26,7 +26,7 @@ experience:
     company: NYU
     company_url: ''
     company_logo: org-gc
-    # location: ''
+    location: New York
     date_start: '2018-05-01'
     date_end: ''
     description: |2-
@@ -39,8 +39,8 @@ experience:
   - title: Teaching Assistant
     company: Universidad Torcuato di Tella
     company_url: ''
-    company_logo: org-gc
-    # location: ''
+    company_logo: org-x
+    location: Buenos Aires
     date_start: '2015-01-01'
     date_end: '2017-06-31'
     description: Taught MA Econometrics and BA International Trade, Game Theory and Economic Growth
