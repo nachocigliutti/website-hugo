@@ -30,19 +30,28 @@ experience:
     date_start: '2018-05-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * In charge of 1st year PhD Econometrics recitations. 
-        * RA for Elena Manresa in developing application of GANs estimation for economic models.
+        In charge of 1st year PhD Econometrics recitations after archieving highest score in examinations.
 
-  - title: Teaching Assistant
+        RA responsabilities included:
+        
+        * Development of empirical application for Generative Adversarial Networks estimation.
+        * Analysis of matched employer--employee data in Germany.
+
+  - title: Research and Teaching Assistant
     company: Universidad Torcuato di Tella
     company_url: ''
     company_logo: utdt-logo2
     location: Buenos Aires, Argentina
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        In charge of recitations for both MA and BA courses in Econometrics and Game Theory
+
+        RA responsabilities included:
+        
+        * Launching leading indicator of economic activity, constructed for prediction of business cycle turns. 
+        * Statistical analysis of +100 variables to optimize out–of–sample prediction.
+        * Composition of monthly reports. 
 
 design:
   columns: '2'
