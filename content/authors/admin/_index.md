@@ -14,7 +14,7 @@ organizations:
     url: https://www.nyu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include eco
+bio: My research interest include Econometrics, Labor and Macroeconomics
 
 # Interests to show in About widget
 interests:
@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Econometrics and Quantitative Economics
+    - course: PhD in Economics
       institution: New York University
       year: 2023 (expected)
     - course: MA in Economics (Econometrics minor)
