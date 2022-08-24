@@ -1,10 +1,11 @@
 ---
-title: CCT - 
+title: CCT - Measuring the Impact of AUH on Education
 summary: Estimation of the effects of AUH on education outcomes in Argentina using Synthetic Control methods.
 tags:
   - Econometrics
   - Causal Inference
 date: '2016-04-27T00:00:00Z'
+authors: ["Nacho Cigliutti", "Maria Echeverri", "Facundo Golinsky", "Agustín Gutierrez", "Marcos Sorá"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
