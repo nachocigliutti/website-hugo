@@ -1,6 +1,6 @@
 ---
 title: CCT - 
-summary: Estimation of the effects of AUH on education outcomes in Argentina using 
+summary: Estimation of the effects of AUH on education outcomes in Argentina using Synthetic Control methods.
 tags:
   - Econometrics
   - Causal Inference

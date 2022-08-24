@@ -30,7 +30,7 @@ experience:
     date_start: '2018-05-01'
     date_end: ''
     description: |2-
-        In charge of 1st year PhD Econometrics recitations after archieving highest score in examinations.
+        TA responsiabilities consisted in leading recitations for 1st year PhD Econometrics course, provided after archieving highest score in examinations.
 
         RA responsabilities included:
         
@@ -45,13 +45,14 @@ experience:
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: |2-
-        In charge of recitations for both MA and BA courses in Econometrics and Game Theory
-
+        TA responsiabilities consisted in leading recitations for both MA and BA courses in Econometrics and Game Theory.
+        
         RA responsabilities included:
         
         * Launching leading indicator of economic activity, constructed for prediction of business cycle turns. 
         * Statistical analysis of +100 variables to optimize out–of–sample prediction.
         * Composition of monthly reports. 
+        
 
 design:
   columns: '2'
