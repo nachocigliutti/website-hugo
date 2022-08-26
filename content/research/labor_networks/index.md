@@ -28,10 +28,10 @@ publication_types: ['0']
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: ABSTRACT HERE
+abstract: I study the interaction of labor market frictions and production network economies for the transmission of shocks. I find that (i) labor frictions dampen the role of the network as an amplification device for sector--specific shocks and (ii) multiple sector--specific labor markets increase unemployment volatility, and the network structure only plays a small role.
 
 # Summary. An optional shortened abstract.
-summary: I study a production network economy with search frictions in the labor market. 
+# summary: I study a production network economy with search frictions in the labor market. 
 
 tags: ['Labor Economics', 'Macroeconomics', 'Networks']
 

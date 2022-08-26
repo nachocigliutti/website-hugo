@@ -36,7 +36,7 @@ abstract: Conditional cash transfers have become a popular tool the government e
 
 
 # Summary. An optional shortened abstract.
-summary: We estimate the effects of certain CCT programs on education outcomes in Latin America using Synthetic Control methods.
+# summary: We estimate the effects of certain CCT programs on education outcomes in Latin America using Synthetic Control methods.
 
 tags: ['Econometrics', 'Causal Inference']
 
