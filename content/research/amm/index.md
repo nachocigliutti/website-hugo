@@ -34,7 +34,7 @@ abstract: Copy-paste abstract
 # Summary. An optional shortened abstract.
 summary: We implement GAN estimators for models based on moment conditions, and study the estimator properties in finite samples.
 
-tags: ['Econometrics', 'Machine Learning']
+# tags: ['Econometrics', 'Machine Learning']
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'uploads/AMM_draft.pdf'
+url_pdf: 'AMM_draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -55,18 +55,18 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+# focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+# projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
