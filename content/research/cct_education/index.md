@@ -26,16 +26,17 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['0']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: ABSTRACT HERE
+abstract: Conditional cash transfers have become a popular tool the government employs to enhance the living conditions of the poor and vulnerable citizens in Latin America. Using the synthetic counterfactual method, we study the e¤ect of these plans on education in three different countries (Argentina, Ecuador and Colombia). We find that in Argentina, the effect of AUH for the three consecutive years after its implementation is positive and increasing in time. This result is validated using two inference techniques, difference-in-differences and placebo test. In the case of Ecuador, the method does not provide a suitable control unit, therefore the effect of BDH remains unacknowledged. Finally, for Colombia we also identify positive and increasing effects starting three years after FA was implemented. This could be explained as a result of the 2003 reform that FA went through.
+
 
 # Summary. An optional shortened abstract.
-summary: We estimate the effects of AUH on education outcomes in Argentina using Synthetic Control methods.
+summary: We estimate the effects of certain CCT programs on education outcomes in Latin America using Synthetic Control methods.
 
 tags: ['Econometrics', 'Causal Inference']
 

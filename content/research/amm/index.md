@@ -23,13 +23,13 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['0']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: ABSTRACT HERE
+abstract: We introduce Adversarial Method of Moments (AMM), for models defined with moment conditions. The estimator is asymptotically equivalent to optimallyweighted 2–step GMM, but outperforms the GMM estimator in finite samples. We show this both in theory and in simulations. In our theoretical results, we exploit the relationship between AMM and GEL estimators to show, using stochastic expansions, that AMM has smaller bias than optimally–weighted GMM. In our simulation experiments, we consider different models, including estimation of variance as in Altonji and Segal (1996) and a dynamic panel data model. We compare the estimator’s performance to other commonly–used procedures in the literature, and find that AMM outperforms in cases where other estimators fail. In the appendix, we extend AMM to simulation–based settings, with an application to the estimation of DSGE models by matching IRF.
 
 # Summary. An optional shortened abstract.
 summary: We study the performance of GAN in models based on moment conditions, and characterize it's finite sample properties.
