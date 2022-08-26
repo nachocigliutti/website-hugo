@@ -32,7 +32,7 @@ publication_types: ['0']
 abstract: ABSTRACT HERE
 
 # Summary. An optional shortened abstract.
-summary: SUMMARY HERE
+summary: We study the performance of GAN in models based on moment conditions, and characterize it's finite sample properties.
 
 tags: []
 
@@ -75,13 +75,3 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-<!-- 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
