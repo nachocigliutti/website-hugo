@@ -34,7 +34,7 @@ abstract: ABSTRACT HERE
 # Summary. An optional shortened abstract.
 summary: We study the performance of GAN in models based on moment conditions, and characterize it's finite sample properties.
 
-tags: []
+tags: ['Econometrics', 'Machine Learning']
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'static/uploads/AMM_draft.pdf'
+url_pdf: 'uploads/AMM_draft.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
