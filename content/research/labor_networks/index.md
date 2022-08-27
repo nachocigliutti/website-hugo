@@ -1,5 +1,5 @@
 ---
-title: 'Production Networks with Search Frictions'
+title: 'Production Networks with Search Frictions (in progress)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -74,6 +74,9 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+I study the role of labor market frictions in production network economies for the transmission of shocks. I argue that the specific demand for skill bundles, represented by the intersectoral job--to--job (J2J) transitions, is crucial to understand this transmission. To this end, I set up a model where firms on each sector demand a certain bundle of skills, and workers specialize as long as they are working. After a shock, workers with suitable skills will find it profitable to move to to certain industries on impact. However, the shock propagates over the production network over time, and the cumulative effect on the sectoral employment distribution differs substantially. I find that both sector--specific labor markets and the network structure play a role in increasing unemployment volatility. 
+
 <!-- 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -84,3 +87,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+

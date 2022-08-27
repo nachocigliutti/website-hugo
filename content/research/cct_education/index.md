@@ -79,3 +79,5 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+Conditional cash transfers have become a popular tool the government employs to enhance the living conditions of the poor and vulnerable citizens in Latin America. Using the synthetic counterfactual method, we study the e¤ect of these plans on education in three different countries (Argentina, Ecuador and Colombia). We find that in Argentina, the effect of AUH for the three consecutive years after its implementation is positive and increasing in time. This result is validated using two inference techniques, difference-in-differences and placebo test. In the case of Ecuador, the method does not provide a suitable control unit, therefore the effect of BDH remains unacknowledged. Finally, for Colombia we also identify positive and increasing effects starting three years after FA was implemented. This could be explained as a result of the 2003 reform that FA went through.
