@@ -28,7 +28,7 @@ publication_types: ['0']
 # publication: In *Wowchemy Conference*
 # publication_short: In *ICW*
 
-abstract: I study the interaction of labor market frictions and production network economies for the transmission of shocks. I find that (i) labor frictions dampen the role of the network as an amplification device for sector--specific shocks and (ii) multiple sector--specific labor markets increase unemployment volatility, and the network structure only plays a small role.
+abstract: I study the role of labor market frictions in production network economies for the transmission of shocks. I argue that the specific demand for skill bundles, represented by the intersectoral job--to--job (J2J) transitions, is crucial to understand this transmission. To this end, I set up a model where firms on each sector demand a certain bundle of skills, and workers specialize as long as they are working. After a shock, workers with suitable skills will find it profitable to move to to certain industries on impact. However, the shock propagates over the production network over time, and the cumulative effect on the sectoral employment distribution differs substantially. I find that both sector--specific labor markets and the network structure play a role in increasing unemployment volatility. 
 
 # Summary. An optional shortened abstract.
 # summary: I study a production network economy with search frictions in the labor market. 
