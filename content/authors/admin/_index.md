@@ -74,4 +74,4 @@ I'm an Economics PhD candidate at NYU, with interests in Econometrics, Labor and
 
 Before my graduate studies at NYU, I recieved BA and MA degrees in Economics (with minors in Math and Econometrics) at Universidad Torcuato di Tella, Argentina. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here is my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
