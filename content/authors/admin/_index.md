@@ -31,7 +31,7 @@ education:
     - course: MA in Economics (GPA 9.67/10)
       institution: Universidad Torcuato di Tella
       year: 2017
-    - course: BA in Economics (GPA 9.21/10)
+    - course: BA in Economics (GPA 9.3/10)
       institution: Universidad Torcuato di Tella
       year: 2014
 

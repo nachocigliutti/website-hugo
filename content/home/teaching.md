@@ -21,6 +21,6 @@ design:
 
 Here you can check the syllabus of some courses I've taught as TA over the years:
 
-- Econometrics (PhD): {{< staticref "uploads/syllabus_metrics_phd_1.pdf" "newtab" >}}[Part 1]{{< /staticref >}} {{< staticref "uploads/syllabus_metrics_phd_2.pdf" "newtab" >}}[Part 2]{{< /staticref >}}
-- {{< staticref "uploads/syllabus_metrics_ma.pdf" "newtab" >}} Econometrics (MA){{< /staticref >}}
-- {{< staticref "uploads/syllabus_micro.pdf" "newtab" >}} Microeconomics and Game Theory (MA){{< /staticref >}}
+- Econometrics (PhD): {{< staticref "uploads/syllabus_metrics_phd_1.pdf" "newtab" >}}(Part 1){{< /staticref >}} {{< staticref "uploads/syllabus_metrics_phd_2.pdf" "newtab" >}}(Part 2){{< /staticref >}}
+- Econometrics (MA): {{< staticref "uploads/syllabus_metrics_ma.pdf" "newtab" >}} (Syllabus) {{< /staticref >}}
+- Microeconomics and Game Theory (MA): {{< staticref "uploads/syllabus_micro.pdf" "newtab" >}} (Syllabus){{< /staticref >}}
