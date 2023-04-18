@@ -1,14 +1,35 @@
 ---
-widget: blank
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
+
+# This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
-title: 'Teaching'
-subtitle: ''
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+weight: 30
+
+title: 'Research'
+subtitle:
+
+content:
+  # Page type to display. E.g. post, event, publication...
+  page_type: research
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
+  # Filter on criteria
+  filters:
+    author: ''
+    category: ''
+    tag: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ''
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 
 design:
   # Choose a view for the listings:
@@ -16,12 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---
-
-Here you can check the syllabus of some courses I've taught as TA over the years:
-
-- Econometrics (PhD): {{< staticref "uploads/syllabus_metrics_phd_1.pdf" "newtab" >}}(Part 1){{< /staticref >}} {{< staticref "uploads/syllabus_metrics_phd_2.pdf" "newtab" >}}(Part 2){{< /staticref >}}
-- Econometrics (MA): {{< staticref "uploads/syllabus_metrics_ma.pdf" "newtab" >}} (Syllabus) {{< /staticref >}}
-- Microeconomics and Game Theory (MA): {{< staticref "uploads/syllabus_micro.pdf" "newtab" >}} (Syllabus){{< /staticref >}}
-- Industrial Organization (UA): {{< staticref "uploads/syllabus_io.pdf" "newtab" >}} (Syllabus) {{< /staticref >}}
